@@ -1,6 +1,6 @@
 # Rename_files
 Rename annoying file names which you get when you download movies or series online.
-This can get way more annoying when you go on download spree.
+File names can get way more annoying when you go on download spree.
 
 #Instructions
 
